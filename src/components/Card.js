@@ -1,6 +1,5 @@
 import React from 'react';
 import star from '../images/star.svg';
-import ellipse from '../images/ellipse.svg';
 
 const Card = (props) => {
     let badgeText;
